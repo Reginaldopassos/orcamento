@@ -1,0 +1,1 @@
+web: gunicorn orcamento.wsgi --log-file -
